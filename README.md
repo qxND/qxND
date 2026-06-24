@@ -11,8 +11,6 @@
   <a href="https://www.linkedin.com/in/eduardo-voga-ribeiro-33b014151/">LinkedIn</a>
   •
   <a href="mailto:eduardovogaribeiro@gmail.com">Email</a>
-  •
-  <a href="https://github.com/qxND">GitHub</a>
 </p>
 
 <p align="center">
